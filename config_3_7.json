@@ -1,5 +1,5 @@
 {
     "app_version_available": "3.7",
-    "svg_url_basic": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/basic_shapes.svg",
-    "svg_url_pro": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/pro_shapes.svg"
+    "svg_feed_url_basic": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/basic_shapes.svg",
+    "svg_feed_url_pro": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/pro_shapes.svg"
 }
