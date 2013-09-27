@@ -8,7 +8,7 @@
         <polygon points="698.527,612.734 599.732,540.955 561.995,424.814 599.732,308.674 698.527,236.895 820.644,236.895 919.44,308.674 
     	957.176,424.814 919.44,540.955 820.644,612.734 "/>
     </svg>
-    <svg id="pumkin" title="halloween\nspecial" backgroundColor="#e1600e">
+    <svg id="pumkin" title="halloween special" backgroundColor="#e1600e">
     	<polygon points="183.365,0.814 0.585,977.901 299.505,841.369 487.425,977.901 415.646,1198.814 "/>
     </svg>
     <svg id="circle">
