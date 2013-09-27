@@ -25,7 +25,9 @@
     <svg id="pentagon">
         <polygon points="183.365,1198.814 111.585,977.901 299.505,841.369 487.425,977.901 415.646,1198.814 "/>
     </svg>
-    <svg id="pumkin" title="HALLOWEEN\nSPECIAL" backgroundColor="#e1600e">
+    <svg id="pumkin" class="delete">
+    </svg>
+    <svg id="pumkin2" title="HALLOWEEN\nSPECIAL" backgroundColor="#e1600e">
     	<polygon points="183.365,0.814 0.585,977.901 299.505,841.369 487.425,977.901 415.646,1198.814 "/>
     </svg>
     <svg id="santa" title="xmas special" backgroundColor="#FF00FF">
