@@ -1,4 +1,7 @@
 {
     "app_version_available": "3.9.1",
-    "svg_feed_url_basic": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/basic_shapes_test.svg"
+    "svg_feed_url_basic": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/basic_shapes_test.svg",
+    "popup_window": {
+        "27.10.2013": "http://www.google.com"
+    }
 }
