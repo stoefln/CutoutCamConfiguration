@@ -2,9 +2,6 @@
     "app_version_available": "3.10",
     "svg_feed_url_basic": "https://raw.github.com/stoefln/CutoutCamConfiguration/master/basic_shapes_3_10.svg",
     "popup_windows": [
-        {
-            "id": "29.12.2014",
-            "url": "http://www.cutoutcam.com/call-for-entries2"
-        }
+
     ]
 }
